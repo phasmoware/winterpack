@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "Snowy biomes, particle effects, and more.",
+    "pack_format": 60,
+    "supported_formats": [60, 60]
+  }
+}
